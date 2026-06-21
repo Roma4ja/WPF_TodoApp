@@ -1,0 +1,14 @@
+D:\WPF_TodoApp\bin\Debug\WPF_TodoApp.exe.config
+D:\WPF_TodoApp\bin\Debug\WPF_TodoApp.exe
+D:\WPF_TodoApp\bin\Debug\WPF_TodoApp.pdb
+D:\WPF_TodoApp\obj\Debug\WPF_TodoApp.csproj.AssemblyReference.cache
+D:\WPF_TodoApp\obj\Debug\MainWindow.baml
+D:\WPF_TodoApp\obj\Debug\MainWindow.g.cs
+D:\WPF_TodoApp\obj\Debug\App.g.cs
+D:\WPF_TodoApp\obj\Debug\WPF_TodoApp_MarkupCompile.cache
+D:\WPF_TodoApp\obj\Debug\WPF_TodoApp.g.resources
+D:\WPF_TodoApp\obj\Debug\WPF_TodoApp.Properties.Resources.resources
+D:\WPF_TodoApp\obj\Debug\WPF_TodoApp.csproj.GenerateResource.cache
+D:\WPF_TodoApp\obj\Debug\WPF_TodoApp.csproj.CoreCompileInputs.cache
+D:\WPF_TodoApp\obj\Debug\WPF_TodoApp.exe
+D:\WPF_TodoApp\obj\Debug\WPF_TodoApp.pdb
