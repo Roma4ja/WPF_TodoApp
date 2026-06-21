@@ -2,7 +2,7 @@
 Простое приложение списка задач на C# с использованием WPF.
 
 ## Скачать
-Скачай последнюю версию в разделе [Releases](https://github.com/Roma4ja/WPF_TodoApp/releases) — установка не нужна
+Скачай последнюю версию в разделе [Releases](https://github.com/Roma4ja/WPF_TodoApp/releases) — скачай архив, распакуй и запусти `setup.exe`
 
 ## Функционал
 - Добавление задач
